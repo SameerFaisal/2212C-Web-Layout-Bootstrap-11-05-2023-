@@ -1,0 +1,48 @@
+/* div{
+    width: 100px;
+    height: 500px;
+    border: 5px groove purple;
+}
+#time{
+    text-align: center;
+} */
+
+.navbar{
+    background-color: black !important;
+}
+
+.navbar-brand,.nav-link{
+    color: white !important;
+}
+.cards{
+    display: flex;
+    justify-content: center;
+}
+.load-more{
+    display: flex;
+    justify-content: center;
+}
+
+.footer{
+    background-color: lightgrey;
+    height: 180px;
+    display: flex;
+    justify-content: space-around;
+}
+.social-icons{
+    display: flex;
+    justify-content: space-around;
+}
+.fa-facebook,.fa-instagram,.fa-twitter{
+    font-size: 25px !important;
+   
+}
+.follow{
+    width: 500;
+}
+.fa-twitter{
+    color: lightblue;
+}
+#pb{
+    list-style-type: none;
+}
